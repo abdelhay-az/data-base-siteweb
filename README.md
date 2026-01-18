@@ -1,2 +1,2 @@
 # data-base-siteweb
-so this is a website of data base when you found ( cours - tests - quiz - mini projects ..... ) anything about the basics of data base 
+this is a website of data base where you can find ( cours - ex - quiz - mini projects ..... ) anything about data base 
